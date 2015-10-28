@@ -26,5 +26,4 @@ public class Calculator {
 		return d1/d2;
 	}
 	
-
 }
